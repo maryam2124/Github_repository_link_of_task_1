@@ -48,3 +48,13 @@ To design a simple chatbot that:
 ---
 
 ## Example Interaction
+
+User: hello
+Bot: Hi! How can I help you?
+
+User: do you sleep
+Bot: I don’t sleep, I run on code!
+
+User: bye
+Bot: Goodbye! See you next time.
+---
