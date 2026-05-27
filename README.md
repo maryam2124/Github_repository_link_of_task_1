@@ -9,7 +9,7 @@ The chatbot simulates basic conversational abilities such as greetings, small ta
 ---
 
 ## Project Image
-![Chatbot Demo](PASTE_YOUR_IMAGE_URL_HERE)
+![Chatbot Demo](https://i.ytimg.com/vi/c7VeJkd8Ntg/maxresdefault.jpg)
 
 ---
 
