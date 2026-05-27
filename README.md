@@ -1,4 +1,4 @@
-# Rule-Based AI Chatbot (Python Project)
+# Rule-Based Chatbot (Python Project)
 
 ## Overview
 This project is a simple **rule-based chatbot system** built using Python.  
